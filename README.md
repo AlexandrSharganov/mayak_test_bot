@@ -6,7 +6,7 @@
 ## Инструкция для запуска бота
 - ### скачайте репозиторий командой:
 ```
-git clone ...
+git clone https://github.com/AlexandrSharganov/mayak_test_bot.git
 ```
 
 - ### установите виртуальное окружение:
